@@ -1,5 +1,5 @@
 # LISAPPTV
-LISAPPTV is an streaming movies app for a client 
+LISAPPTV is an streaming movies app 
 
 App’s Major Features
 
